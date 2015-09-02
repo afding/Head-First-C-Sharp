@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ReadingAndWritingUsingTwoObjects\bin\Debug\ReadingAndWritingUsingTwoObjects.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ReadingAndWritingUsingTwoObjects\bin\Debug\ReadingAndWritingUsingTwoObjects.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ReadingAndWritingUsingTwoObjects\bin\Debug\ReadingAndWritingUsingTwoObjects.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ReadingAndWritingUsingTwoObjects\obj\Debug\ReadingAndWritingUsingTwoObjects.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ReadingAndWritingUsingTwoObjects\obj\Debug\ReadingAndWritingUsingTwoObjects.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ReadingAndWritingUsingTwoObjects\obj\Debug\ReadingAndWritingUsingTwoObjects.pdb

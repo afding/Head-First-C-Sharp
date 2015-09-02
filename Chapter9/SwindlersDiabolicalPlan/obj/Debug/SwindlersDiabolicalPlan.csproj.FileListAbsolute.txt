@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SwindlersDiabolicalPlan\bin\Debug\SwindlersDiabolicalPlan.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SwindlersDiabolicalPlan\bin\Debug\SwindlersDiabolicalPlan.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SwindlersDiabolicalPlan\bin\Debug\SwindlersDiabolicalPlan.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SwindlersDiabolicalPlan\obj\Debug\SwindlersDiabolicalPlan.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SwindlersDiabolicalPlan\obj\Debug\SwindlersDiabolicalPlan.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SwindlersDiabolicalPlan\obj\Debug\SwindlersDiabolicalPlan.pdb

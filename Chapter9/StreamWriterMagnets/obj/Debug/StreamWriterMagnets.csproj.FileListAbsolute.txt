@@ -1,0 +1,5 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\StreamWriterMagnets\bin\Debug\StreamWriterMagnets.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\StreamWriterMagnets\bin\Debug\StreamWriterMagnets.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\StreamWriterMagnets\bin\Debug\StreamWriterMagnets.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\StreamWriterMagnets\obj\Debug\StreamWriterMagnets.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\StreamWriterMagnets\obj\Debug\StreamWriterMagnets.pdb

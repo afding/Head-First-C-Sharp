@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SwindlersDiabolicalPlan", "SwindlersDiabolicalPlan", "{2513C55B-CC03-417E-AC8A-3AE53137ABEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwindlersDiabolicalPlan", "SwindlersDiabolicalPlan\SwindlersDiabolicalPlan.csproj", "{232F9413-7A59-4312-8CCD-6DFEBDB59EEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StreamWriterMagnets", "StreamWriterMagnets", "{BCD13963-4E78-4F54-BC02-D31BE0FEF6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriterMagnets", "StreamWriterMagnets\StreamWriterMagnets.csproj", "{0DEB4126-DA74-46CE-8C70-86B6DB3A2D95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReadingAndWritingUsingTwoObjects", "ReadingAndWritingUsingTwoObjects", "{EA7FE815-1B74-4A48-9CBA-BED683FE60F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingAndWritingUsingTwoObjects", "ReadingAndWritingUsingTwoObjects\ReadingAndWritingUsingTwoObjects.csproj", "{A413E339-198A-4FED-B248-4F58BB76DCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232F9413-7A59-4312-8CCD-6DFEBDB59EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232F9413-7A59-4312-8CCD-6DFEBDB59EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232F9413-7A59-4312-8CCD-6DFEBDB59EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232F9413-7A59-4312-8CCD-6DFEBDB59EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DEB4126-DA74-46CE-8C70-86B6DB3A2D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEB4126-DA74-46CE-8C70-86B6DB3A2D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEB4126-DA74-46CE-8C70-86B6DB3A2D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEB4126-DA74-46CE-8C70-86B6DB3A2D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A413E339-198A-4FED-B248-4F58BB76DCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A413E339-198A-4FED-B248-4F58BB76DCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A413E339-198A-4FED-B248-4F58BB76DCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A413E339-198A-4FED-B248-4F58BB76DCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{232F9413-7A59-4312-8CCD-6DFEBDB59EEE} = {2513C55B-CC03-417E-AC8A-3AE53137ABEF}
+		{0DEB4126-DA74-46CE-8C70-86B6DB3A2D95} = {BCD13963-4E78-4F54-BC02-D31BE0FEF6D3}
+		{A413E339-198A-4FED-B248-4F58BB76DCEB} = {EA7FE815-1B74-4A48-9CBA-BED683FE60F5}
+	EndGlobalSection
+EndGlobal
