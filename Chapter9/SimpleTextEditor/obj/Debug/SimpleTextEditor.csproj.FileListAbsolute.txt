@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\bin\Debug\SimpleTextEditor.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\bin\Debug\SimpleTextEditor.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\obj\Debug\SimpleTextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\obj\Debug\SimpleTextEditor.Form1.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\obj\Debug\SimpleTextEditor.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\obj\Debug\SimpleTextEditor.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\obj\Debug\SimpleTextEditor.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SimpleTextEditor\obj\Debug\SimpleTextEditor.pdb
