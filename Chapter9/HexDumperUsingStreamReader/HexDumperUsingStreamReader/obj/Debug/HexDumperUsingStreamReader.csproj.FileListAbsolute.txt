@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumperUsingStreamReader\HexDumperUsingStreamReader\bin\Debug\HexDumperUsingStreamReader.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumperUsingStreamReader\HexDumperUsingStreamReader\bin\Debug\HexDumperUsingStreamReader.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumperUsingStreamReader\HexDumperUsingStreamReader\bin\Debug\HexDumperUsingStreamReader.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumperUsingStreamReader\HexDumperUsingStreamReader\obj\Debug\HexDumperUsingStreamReader.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumperUsingStreamReader\HexDumperUsingStreamReader\obj\Debug\HexDumperUsingStreamReader.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumperUsingStreamReader\HexDumperUsingStreamReader\obj\Debug\HexDumperUsingStreamReader.pdb

@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\bin\Debug\ExcuseManager.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\bin\Debug\ExcuseManager.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\bin\Debug\ExcuseManager.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\obj\Debug\ExcuseManager.Form1.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\obj\Debug\ExcuseManager.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\obj\Debug\ExcuseManager.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\obj\Debug\ExcuseManager.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\obj\Debug\ExcuseManager.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManager\obj\Debug\ExcuseManager.csprojResolveAssemblyReference.cache

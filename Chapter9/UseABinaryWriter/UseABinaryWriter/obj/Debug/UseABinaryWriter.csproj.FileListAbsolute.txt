@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\UseABinaryWriter\UseABinaryWriter\bin\Debug\UseABinaryWriter.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\UseABinaryWriter\UseABinaryWriter\bin\Debug\UseABinaryWriter.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\UseABinaryWriter\UseABinaryWriter\bin\Debug\UseABinaryWriter.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\UseABinaryWriter\UseABinaryWriter\obj\Debug\UseABinaryWriter.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\UseABinaryWriter\UseABinaryWriter\obj\Debug\UseABinaryWriter.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\UseABinaryWriter\UseABinaryWriter\obj\Debug\UseABinaryWriter.pdb

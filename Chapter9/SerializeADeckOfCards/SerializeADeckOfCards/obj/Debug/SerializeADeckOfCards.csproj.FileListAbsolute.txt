@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\bin\Debug\SerializeADeckOfCards.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\bin\Debug\SerializeADeckOfCards.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\bin\Debug\SerializeADeckOfCards.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.Form1.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeADeckOfCards\SerializeADeckOfCards\obj\Debug\SerializeADeckOfCards.pdb

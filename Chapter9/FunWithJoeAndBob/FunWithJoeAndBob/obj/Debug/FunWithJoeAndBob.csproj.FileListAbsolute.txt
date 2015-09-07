@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\bin\Debug\FunWithJoeAndBob.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\bin\Debug\FunWithJoeAndBob.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\bin\Debug\FunWithJoeAndBob.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\obj\Debug\FunWithJoeAndBob.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\obj\Debug\FunWithJoeAndBob.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\obj\Debug\FunWithJoeAndBob.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\obj\Debug\FunWithJoeAndBob.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\FunWithJoeAndBob\FunWithJoeAndBob\obj\Debug\FunWithJoeAndBob.pdb

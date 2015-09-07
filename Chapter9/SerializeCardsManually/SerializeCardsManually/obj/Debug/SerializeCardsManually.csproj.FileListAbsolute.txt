@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeCardsManually\SerializeCardsManually\bin\Debug\SerializeCardsManually.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeCardsManually\SerializeCardsManually\obj\Debug\SerializeCardsManually.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeCardsManually\SerializeCardsManually\bin\Debug\SerializeCardsManually.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeCardsManually\SerializeCardsManually\bin\Debug\SerializeCardsManually.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeCardsManually\SerializeCardsManually\obj\Debug\SerializeCardsManually.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\SerializeCardsManually\SerializeCardsManually\obj\Debug\SerializeCardsManually.pdb

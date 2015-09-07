@@ -1,0 +1,5 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumper\HexDumper\bin\Debug\HexDumper.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumper\HexDumper\bin\Debug\HexDumper.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumper\HexDumper\bin\Debug\HexDumper.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumper\HexDumper\obj\Debug\HexDumper.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\HexDumper\HexDumper\obj\Debug\HexDumper.pdb

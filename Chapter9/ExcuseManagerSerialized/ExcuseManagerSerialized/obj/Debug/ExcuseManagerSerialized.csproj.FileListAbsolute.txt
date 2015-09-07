@@ -1,0 +1,8 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\bin\Debug\ExcuseManagerSerialized.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\bin\Debug\ExcuseManagerSerialized.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\bin\Debug\ExcuseManagerSerialized.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\obj\Debug\ExcuseManagerSerialized.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\obj\Debug\ExcuseManagerSerialized.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\obj\Debug\ExcuseManagerSerialized.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\obj\Debug\ExcuseManagerSerialized.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\ExcuseManagerSerialized\ExcuseManagerSerialized\obj\Debug\ExcuseManagerSerialized.pdb

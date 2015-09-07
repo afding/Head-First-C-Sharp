@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\bin\Debug\DotNetUsesUnicode.exe.config
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\bin\Debug\DotNetUsesUnicode.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\bin\Debug\DotNetUsesUnicode.pdb
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.Form1.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.exe
+C:\Users\Andrew\Documents\GitHub\Head-First-C-Sharp\Chapter9\DotNetUsesUnicode\DotNetUsesUnicode\obj\Debug\DotNetUsesUnicode.pdb
