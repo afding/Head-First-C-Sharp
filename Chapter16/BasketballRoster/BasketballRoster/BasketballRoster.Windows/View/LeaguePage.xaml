@@ -8,10 +8,12 @@
     xmlns:common="using:BasketballRoster.Common"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewmodel="using:BasketballRoster.ViewModel"
     mc:Ignorable="d">
 
     <Page.Resources>
         <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <viewmodel:LeagueViewModel x:Name="LeagueViewModel" />
         <x:String x:Key="AppName">Head First Basketball Conference</x:String>
     </Page.Resources>
 
@@ -45,6 +47,17 @@
                         AutomationProperties.ItemType="Navigation Button"/>
             <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
+            
+            <!-- Adding our custom user controls here -->
+            <StackPanel Orientation="Horizontal"
+                        Margin="120,0,0,0"
+                        Grid.Row="1"
+                        DataContext="{StaticResource ResourceKey=LeagueViewModel}">
+                <local:RosterControl DataContext="{Binding JimmysTeam}"
+                                     Margin="0,0,20,0" />
+                <local:RosterControl DataContext="{Binding BriansTeam}"
+                                     Margin="0,0,20,0" />
+            </StackPanel>
         </Grid>
     </Grid>
 </Page>
