@@ -47,17 +47,17 @@
                         AutomationProperties.ItemType="Navigation Button"/>
             <TextBlock x:Name="pageTitle" Text="{StaticResource AppName}" Style="{StaticResource HeaderTextBlockStyle}" Grid.Column="1" 
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
-            
-            <!-- Adding our custom user controls here -->
-            <StackPanel Orientation="Horizontal"
+        </Grid>
+        
+        <!-- Adding our custom user controls here -->
+        <StackPanel Orientation="Horizontal"
                         Margin="120,0,0,0"
                         Grid.Row="1"
                         DataContext="{StaticResource ResourceKey=LeagueViewModel}">
-                <local:RosterControl DataContext="{Binding JimmysTeam}"
+            <local:RosterControl DataContext="{Binding JimmysTeam}"
                                      Margin="0,0,20,0" />
-                <local:RosterControl DataContext="{Binding BriansTeam}"
+            <local:RosterControl DataContext="{Binding BriansTeam}"
                                      Margin="0,0,20,0" />
-            </StackPanel>
-        </Grid>
+        </StackPanel>
     </Grid>
 </Page>
